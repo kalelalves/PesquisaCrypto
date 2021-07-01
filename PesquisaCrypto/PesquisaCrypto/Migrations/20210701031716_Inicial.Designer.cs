@@ -9,8 +9,8 @@ using PesquisaCrypto.Models;
 namespace PesquisaCrypto.Migrations
 {
     [DbContext(typeof(MoedasContexto))]
-    [Migration("20210630030723_CriacaoBD")]
-    partial class CriacaoBD
+    [Migration("20210701031716_Inicial")]
+    partial class Inicial
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {

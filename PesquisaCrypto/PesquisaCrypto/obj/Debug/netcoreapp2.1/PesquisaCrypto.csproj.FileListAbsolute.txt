@@ -7,7 +7,6 @@ C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\bin\Debug\
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\bin\Debug\netcoreapp2.1\PesquisaCrypto.pdb
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\bin\Debug\netcoreapp2.1\PesquisaCrypto.Views.dll
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\bin\Debug\netcoreapp2.1\PesquisaCrypto.Views.pdb
-C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\PesquisaCrypto.csprojAssemblyReference.cache
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\PesquisaCrypto.AssemblyInfoInputs.cache
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\PesquisaCrypto.AssemblyInfo.cs
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\PesquisaCrypto.csproj.CoreCompileInputs.cache
@@ -33,3 +32,4 @@ C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\PesquisaCrypto.pdb
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\PesquisaCrypto.genruntimeconfig.cache
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\PesquisaCrypto.csproj.CopyComplete
+C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\PesquisaCrypto.csprojAssemblyReference.cache
