@@ -32,4 +32,6 @@ C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\PesquisaCrypto.pdb
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\PesquisaCrypto.genruntimeconfig.cache
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\PesquisaCrypto.csproj.CopyComplete
+C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\Razor\Views\Moedas\Create.cshtml.g.cs
+C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\Razor\Views\Moedas\Index.cshtml.g.cs
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\PesquisaCrypto.csprojAssemblyReference.cache

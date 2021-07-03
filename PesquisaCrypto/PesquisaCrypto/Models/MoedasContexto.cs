@@ -9,7 +9,7 @@ namespace PesquisaCrypto.Models
     public class MoedasContexto : DbContext
     {
         public DbSet<Moedas> Moedas {get;set;}
-        public MoedasContexto(DbContextOptions<MoedasContexto> options) : base(options)
+        public MoedasContexto(DbContextOptions<MoedasContexto> opcoes) : base(opcoes)
         {
 
         }

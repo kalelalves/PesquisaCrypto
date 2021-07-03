@@ -61,7 +61,7 @@ namespace PesquisaCrypto
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Moedas}/{action=Index}/{id?}");
             });
         }
     }
