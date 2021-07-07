@@ -35,3 +35,6 @@ C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\Razor\Views\Moedas\Create.cshtml.g.cs
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\Razor\Views\Moedas\Index.cshtml.g.cs
 C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\PesquisaCrypto.csprojAssemblyReference.cache
+C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Components\Moedas\Default.cshtml.g.cs
+C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\obj\Debug\netcoreapp2.1\Razor\Views\Moedas\_Grafico.cshtml.g.cs
+C:\Github\CursoDotNetCore\PequisaCrypto\PesquisaCrypto\PesquisaCrypto\bin\Debug\netcoreapp2.1\libman.json

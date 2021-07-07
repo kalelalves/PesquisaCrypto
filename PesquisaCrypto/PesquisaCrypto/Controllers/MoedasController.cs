@@ -24,7 +24,26 @@ namespace PesquisaCrypto.Controllers
             return View(await _context.Moedas.ToListAsync());
         }
 
-        
+        public async Task<IActionResult> EscolhadeMoedas(IList<Moedas> moedas)
+        {
+            foreach (var item in moedas)
+            {
+                if (item.CheckboxMarcado == true)
+                {
+                    Moedas moeda = await _context.Moedas.FirstAsync(x => x.MoedasId == item.MoedasId);
+                    moeda.Quantidade = moeda.Quantidade + 1;
+                    _context.Update(moeda);
+                    await _context.SaveChangesAsync();
+                }
+            }
+            return RedirectToAction(nameof(Index));
+        }
+
+        public JsonResult DadosGrafico()
+        {
+            return Json(_context.Moedas.Select(x => new { x.Nome, x.Quantidade }));
+        }
+
 
         // GET: Moedas/Create
         public IActionResult Create()
